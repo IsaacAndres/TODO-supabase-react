@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-![Writing]()
+![screenshot](https://raw.githubusercontent.com/IsaacAndres/TODO-supabase-react/main/img/screenshot_1.png)
 
 ## Technologies
 I used `React`, `Supabase` and `Bootstrap`
@@ -11,7 +11,7 @@ I used `React`, `Supabase` and `Bootstrap`
 
 Create a database table named `tasks` in Supabase with this structure:
 
-![Writing]()
+![tasks](https://raw.githubusercontent.com/IsaacAndres/TODO-supabase-react/main/img/task_table.png)
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
 
