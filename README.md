@@ -17,7 +17,7 @@ Clone down this repository. You will need `node` and `npm` installed globally on
 
 Installation:
 
-Add `.env.local` file in te root of the proyect And setup the next values:
+Add `.env.local` file in the root of the proyect And setup the next values:
 
 ```
 REACT_APP_SUPABASE_URL=https://your-proyect-url.supabase.co
